@@ -1,4 +1,4 @@
-module github.com/filecoin-project/ffi-stub
+module github.com/nonsense/ffi-stub
 
 go 1.18
 
